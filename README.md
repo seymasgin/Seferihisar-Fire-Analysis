@@ -1,6 +1,6 @@
-For the post-fire analysis, Copernicus images with 15% cloud cover taken between July 3 and July 11 were used. For the pre-fire analysis, Copernicus images with 15% cloud cover taken between June 15 and June 16 were used. The images were obtained through the Google Earth Engine platform, where NDVI and NBR indices were also calculated.
-
 Purpose: calculate NDVI and NBR before/after a fire, compute differences (dNDVI, dNBR), classify burned areas using thresholds, compute burned area in hectares and produce maps and summary tables.
+
+For the post-fire analysis, Copernicus images with 15% cloud cover taken between July 3 and July 11 were used. For the pre-fire analysis, Copernicus images with 15% cloud cover taken between June 15 and June 16 were used. The images were obtained through the Google Earth Engine platform, where NDVI and NBR indices were also calculated.
 
 Key decisions & thresholds (from analysis):
 
