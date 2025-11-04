@@ -48,8 +48,11 @@ Estimated burned areas:
 
 • Difference: ~600 ha (~13–14%) — depends on thresholds and preprocessing.
 
+
+### 🔹 Detection of Burned Area with NDVI
 ![Detection of Burned Area with NDVI](NDVI_GEE.png)
 
+### 🔹 Detection of Burned Area with NBR
 ![Detection of Burned Area with NBR](NBR_GEE.png)
 
 🧠 Interpretation
