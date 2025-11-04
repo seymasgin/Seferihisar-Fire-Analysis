@@ -48,6 +48,10 @@ Estimated burned areas:
 
 • Difference: ~600 ha (~13–14%) — depends on thresholds and preprocessing.
 
+![Detection of Burned Area with NDVI](NDVI_GEE.png)
+
+![Detection of Burned Area with NBR](NBR_GEE.png)
+
 🧠 Interpretation
 
 The burned area calculated in this study using satellite imagery and vegetation indices (e.g., NBR) was 5,077.8 ha and 4,479.3 ha approximately, compared to the 11000 ha recorded approximately in reality. The difference of 6000 ha (53%) arises from factors such as the spatial resolution of the imagery, the threshold values used in the classification, and the presence of mixed pixels where partially burned and unburned areas coexist. Also, It arises from the nature of the terrain where Seferihisar is located, because if the area is very steep and mountainous, the results can vary quite.
