@@ -2,7 +2,7 @@
 
 Goal: Calculate NDVI and NBR before and after a wildfire, compute differences (dNDVI, dNBR), classify burned areas using thresholds, estimate burned area in hectares, and generate maps and summary tables.
 
-For the post-fire analysis, Copernicus images with 15% cloud cover taken between July 3 and July 11 were used. For the pre-fire analysis, Copernicus images with 15% cloud cover taken between June 15 and June 16 were used. The images were obtained through the Google Earth Engine platform, where NDVI and NBR indices were also calculated.
+For the post-fire analysis, Sentinel-2 images with 15% cloud cover taken between July 3 and July 11 were used. For the pre-fire analysis, Copernicus images with 15% cloud cover taken between June 15 and June 16 were used. The images were obtained through the Google Earth Engine platform, where NDVI and NBR indices were also calculated.
 
 NBR (Normalized Burn Ratio):
 • Specifically designed to measure vegetation damage and burn severity after a fire.
